@@ -3,6 +3,7 @@ Laravel11-Note-App project is a personal notes application, covering essential c
 The project is structured into the following sections:
 
 Highlights:
+
 🚀 Project Setup: Set up Laravel with PHP, Composer, and Node.js.
 
 🚀 Build a Notes App: A personal notes application bulit from scratch.
@@ -24,7 +25,8 @@ Highlights:
 
 
 
-Key Insights
+Key Insights:
+
 🏗️ Environment Setup: Properly configuring your development environment is crucial for smooth project execution. Using XAMPP and Composer simplifies the setup process.
 
 📜 MVC Architecture: Laravel’s MVC (Model-View-Controller) structure promotes organized code, making it easier to manage and scale applications.
